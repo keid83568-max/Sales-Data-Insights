@@ -14,4 +14,4 @@ This project analyzes a global sales dataset to uncover trends in revenue, custo
 * **Power Query:** For data transformation.
 
 ## 🖼️ Dashboard Preview
-![Sales Dashboard](1000572653.png)
+![Sales Dashboard](./1000572653.png)
